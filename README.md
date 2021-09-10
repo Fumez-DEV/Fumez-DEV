@@ -8,11 +8,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fumez-DEV&theme=alduin&column=3&margin-w=15&margin-h=15" alt="fumez-dev" /></a> </p>
 
 
-- 🔭 I’m currently working on MySQL
+- 🔭 I’m currently working on nothing
 
 - 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **Science-related projects**
+- 🤝 I’m looking for help with nothing
 
 - 💬 Ask me about **Basic Python**
 
