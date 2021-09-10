@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arik but you can call me fumez</h1>
-<h3 align="center">A I secure data from Israel</h3>
+<h1 align="center">Hi 👋, I'm Arik</h1>
+<h3 align="center">a programmer for about 3 months ,
+programming languages ​​I learned: HTML , CSS , C , Python.
+Discord: Fumez#6666
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fumez-DEV&label=Profile%20views&color=0e75b6&style=flat" alt="oriapp" /> </p>
 
