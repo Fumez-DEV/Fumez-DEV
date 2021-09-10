@@ -7,9 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fumez-DEV&theme=alduin&column=3&margin-w=15&margin-h=15" alt="fumez-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/oriapple" target="blank"><img src="https://img.shields.io/twitter/follow/oriapple?logo=twitter&style=for-the-badge" alt="oriapple" /></a> </p>
-
-<img src="http://www.hackthebox.eu/badge/image/320164" alt="Hack The Box" onclick="window.open('anotherpage.html', '_blank');" />
 
 - 🔭 I’m currently working on MySQL
 
