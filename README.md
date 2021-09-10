@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arik</h1>
 <h3 align="center">a programmer for about 3 months ,
-programming languages ​​I learned: HTML , CSS , C , Python.
+programming languages I learned: HTML , CSS , C , Python, MySQL.
 Discord: Fumez#6666
 </h3>
 
