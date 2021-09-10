@@ -11,24 +11,21 @@
 
 <img src="http://www.hackthebox.eu/badge/image/320164" alt="Hack The Box" onclick="window.open('anotherpage.html', '_blank');" />
 
-- 🔭 I’m currently working on [RickBot](https://rickbot.net)
+- 🔭 I’m currently working on MySQL
 
 - 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with **Science-related projects**
 
-- 👨‍💻 All of my projects are available at [oriappel.me](https://oriappel.me/)
-
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Basic Python**
 
 - 📫 How to reach me **arikmelku@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<!-- <a href="https://twitter.com/oriapple" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="oriapple" height="30" width="40" /></a> -->
   
-  <p align="left"> <a href="https://twitter.com/oriapple" target="blank"><img src="https://img.shields.io/twitter/follow/oriapple?logo=twitter&style=for-the-badge" alt="oriapple" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/its_arik" target="blank"><img src="https://img.shields.io/twitter/follow/its_arik?logo=twitter&style=for-the-badge" alt="oriapple" /></a> </p>
   
 </p>
 
