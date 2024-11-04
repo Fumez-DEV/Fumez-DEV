@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Arik Melku!
+# 👋 Hello, I'm Arik!
 
 I'm a **Web Developer and AI Enthusiast**, driven by a passion for blending innovation with technology to solve real-world challenges. My journey centers on developing proficiency in **Python** and **JavaScript (React, Node.js)**, enabling me to build impactful and user-focused web applications.
 
