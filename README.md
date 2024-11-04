@@ -27,7 +27,7 @@ I'm a **Web Developer and AI Enthusiast**, driven by a passion for blending inno
 - **Email**: [arikmelku3@gmail.com](mailto:arikmelku3@gmail.com)
 - **Twitter**: [@fumez_arik](https://twitter.com/fumez_arik)
 - **Instagram**: [@arikmel__](https://instagram.com/arikmel__)
-- **Discord**: fumezam (ID: 761165070511243264) [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com)
+- **Discord**: fumezam
 
 ---
 
