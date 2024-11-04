@@ -17,6 +17,11 @@ I'm a **Web Developer with a passion for AI**, bringing together my interests in
 
 ---
 
+## 📊 GitHub Stats
+![Arik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fumez-DEV&show_icons=true&theme=default)
+
+---
+
 ## 📫 Get in Touch
 - **Email**: [arikmelku3@gmail.com](mailto:arikmelku3@gmail.com)
 - **X (Twitter)**: [fumez_arik](https://twitter.com/fumez_arik)
