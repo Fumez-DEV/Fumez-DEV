@@ -1,33 +1,34 @@
-# 👋 Hi there, I'm Arik!
+# 👋 Hello, I'm Arik Melku!
 
-I'm a **Web Developer with a passion for AI**, bringing together my interests in technology and problem-solving. Currently focused on building skills in **Python** and **JavaScript (React, Node.js)** to create impactful web applications.
-
----
-
-## 🚀 About Me
-- 🔭 **Current Project**: Building the *Pal Shalev Website*, combining sleek design with functionality.
-- 🌱 Learning and experimenting with AI integrations in web development.
-- 🎯 2024 Goals: Deepen my expertise in backend and AI-driven web applications, develop a strong personal portfolio, and keep learning.
+I'm a **Web Developer and AI Enthusiast**, driven by a passion for blending innovation with technology to solve real-world challenges. My journey centers on developing proficiency in **Python** and **JavaScript (React, Node.js)**, enabling me to build impactful and user-focused web applications.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🌟 About Me
+- 🔭 **Current Project**: Building out *Fumez - Web Designs*, where I bring creative web design and AI integration together to elevate online presence.
+- 🌱 **Currently Learning**: AI integrations for enhanced web applications.
+- 🎯 **2024 Goals**: Expand my skills in backend development and AI-powered web solutions, create a strong portfolio, and build a scalable business.
+
+---
+
+## 🔧 Tech Stack
 - **Languages**: Python, JavaScript (React, Node.js)
-- **Tools**: Git, GitHub, VS Code, AI tools
+- **Frameworks**: Node.js, Express, Django
+- **Tools**: Git, GitHub, VS Code, OBS, AI tools
 
 ---
 
 ## 📊 GitHub Stats
-![Arik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fumez-DEV&show_icons=true&theme=default)
+![Arik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fumez-DEV&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Get in Touch
+## 💬 Let's Connect
 - **Email**: [arikmelku3@gmail.com](mailto:arikmelku3@gmail.com)
-- **X (Twitter)**: [fumez_arik](https://twitter.com/fumez_arik)
-- **Instagram**: [arikmel__](https://instagram.com/arikmel__)
+- **Twitter**: [@fumez_arik](https://twitter.com/fumez_arik)
+- **Instagram**: [@arikmel__](https://instagram.com/arikmel__)
 
 ---
 
-### 📚 Favorite Quote
-*"You are in danger of living a life so comfortable and soft that you will die without ever realizing your true potential."* – **David Goggins**
+### ✨ Inspiring Quote
+*"Success is not final, failure is not fatal: It is the courage to continue that count."* – **Winston Churchill**
